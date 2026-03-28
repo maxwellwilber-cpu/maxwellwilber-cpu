@@ -20,6 +20,7 @@ I design and deploy AI systems that solve real business problems — data engine
 
 | Repository | Description |
 |---|---|
+| [**FAS Case Study**](https://github.com/maxwellwilber-cpu/fas-case-study) | How I built a 27-node AI financial analysis pipeline — and why 73 validation checks mattered more than the AI. Tested on real client data, 96.2/100 quality score |
 | [**AI Implementations Portfolio**](https://github.com/maxwellwilber-cpu/ai-implementations-portfolio) | 22 documented AI implementations across 2 clients — data pipelines, CRM automation (HubSpot API), competitive intelligence, brand analytics, and sales systems |
 | [**External Validation Script (EVS)**](https://github.com/maxwellwilber-cpu/evs) | 73-check Python validation framework for AI-generated financial analysis. 43 pytest tests, 100% error detection rate |
 
