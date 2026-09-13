@@ -18,8 +18,10 @@ Business degree, self-taught on the technical side. I care most about the part p
 
 | Project | What it is |
 |---|---|
+| [client-data-cleaner](https://github.com/maxwellwilber-cpu/client-data-cleaner) | Turns several messy customer exports into one clean master list. 100% matching precision and zero wrong merges, measured against known ground truth and reproducible with one command. |
+| [checkpoint](https://github.com/maxwellwilber-cpu/checkpoint) | Validates AI output against rules you declare. Catches invented numbers, citations pointing at nothing, and placeholder text that schema validation misses. 71 tests. |
 | [evs](https://github.com/maxwellwilber-cpu/evs) | A 73-check Python validation framework with 43 pytest tests that verifies AI-generated analysis output. Caught 12/12 planted errors plus 3 real ones. |
 | [fas-case-study](https://github.com/maxwellwilber-cpu/fas-case-study) | Architecture case study of a 27-node AI financial analysis pipeline — validation design, fail-closed behavior, real client results. |
-| [ai-implementations-portfolio](https://github.com/maxwellwilber-cpu/ai-implementations-portfolio) | 23 documented AI implementations across data engineering, CRM automation, competitive intelligence and process automation. |
+| [ai-implementations-portfolio](https://github.com/maxwellwilber-cpu/ai-implementations-portfolio) | 10 production AI systems and 9 strategy assets built for two businesses, with detail pages on the five largest. |
 
 Seattle, WA · [LinkedIn](https://linkedin.com/in/maxwellwilber)
