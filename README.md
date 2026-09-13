@@ -1,41 +1,25 @@
-# Maxwell Wilber
+## Maxwell Wilber
 
-**Applied AI Consulting | Business Operations & Strategy**
+I build AI automations and agents for businesses.
 
-Business-AI consultant with 6+ years designing systems, scaling revenue, and deploying AI solutions for founder-led businesses. I architect AI solutions, bridge the gap between business needs and AI capabilities, and build enough to prove things work.
+Currently an AI implementation specialist at a Seattle AI startup, where I turn business workflows into agentic systems that run on their own. Before that I spent a year building AI systems for small business owners through an independent consulting practice, and five years running operations for a $2.5M home staging company.
 
-B.A. Business Administration (Entrepreneurship), Loyola Marymount University
+Business degree, self-taught on the technical side. I care most about the part people skip: making sure the output is right, and that the system does not quietly break two months later.
 
----
+**What I work on**
+- Agentic workflows and AI agents triggered by real business events
+- Data pipelines that turn messy multi-source business data into something decisions can be made from
+- Process automation across CRMs, email, databases and APIs
+- Validation and evaluation — testing AI output instead of trusting it
 
-### What I Build
+**Stack:** Python (pandas, pytest), SQL, Claude API and Claude Code, Postgres, REST/webhook integration, Zapier / Make / n8n, Vellum
 
-I design and deploy AI systems that solve real business problems — data engineering, CRM automation, competitive intelligence, brand analytics, and process automation. Every system is validated against real-world data before deployment.
+**Selected work**
 
-**Highlight:** Built and validated a 27-node AI financial analysis pipeline (73 validation checks, 96.2/100 quality score) that produces CFO-grade analysis for small businesses.
-
----
-
-### Portfolio
-
-| Repository | Description |
+| Project | What it is |
 |---|---|
-| [**FAS Case Study**](https://github.com/maxwellwilber-cpu/fas-case-study) | How I built a 27-node AI financial analysis pipeline — and why 73 validation checks mattered more than the AI. Tested on real client data, 96.2/100 quality score |
-| [**AI Implementations Portfolio**](https://github.com/maxwellwilber-cpu/ai-implementations-portfolio) | 22 documented AI implementations across 2 clients — data pipelines, CRM automation (HubSpot API), competitive intelligence, brand analytics, and sales systems |
-| [**External Validation Script (EVS)**](https://github.com/maxwellwilber-cpu/evs) | 73-check Python validation framework for AI-generated financial analysis. 43 pytest tests, 100% error detection rate |
+| [evs](https://github.com/maxwellwilber-cpu/evs) | A 73-check Python validation framework with 43 pytest tests that verifies AI-generated analysis output. Caught 12/12 planted errors plus 3 real ones. |
+| [fas-case-study](https://github.com/maxwellwilber-cpu/fas-case-study) | Architecture case study of a 27-node AI financial analysis pipeline — validation design, fail-closed behavior, real client results. |
+| [ai-implementations-portfolio](https://github.com/maxwellwilber-cpu/ai-implementations-portfolio) | 23 documented AI implementations across data engineering, CRM automation, competitive intelligence and process automation. |
 
----
-
-### Technical
-
-Python, SQL, Claude API, HubSpot API, Apollo.io API, Vellum, Git/GitHub, MCP (Model Context Protocol), pandas, openpyxl, ReportLab, pytest
-
----
-
-### Certifications
-
-Anthropic Academy (Claude 101, AI Fluency) · DeepLearning.AI (Prompt Engineering, Building Systems with ChatGPT API) · SQL (SQLBolt) · Kaggle (Pandas)
-
----
-
-maxwellwilber@gmail.com · (310) 498-6233 · Los Angeles, CA · Open to SF / Seattle
+Seattle, WA · [LinkedIn](https://linkedin.com/in/maxwellwilber)
